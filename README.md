@@ -18,8 +18,8 @@ ii. Proposing a better representation (hand-drawing is fine) that passes the che
 - [ ] Report this work for at least 3 figures on you github/gitlab project.
 - [ ] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
 
- 
- 
+ # Homework 4th Week : 17/10/2024
+- [ ] Continue the hands-on, improve the experiment design and the analysis
 
 
 
