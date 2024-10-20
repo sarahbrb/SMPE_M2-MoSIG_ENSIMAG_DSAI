@@ -22,7 +22,7 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
 - [ ] Report this work for at least 3 figures on you github/gitlab project.
 - [x] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
 
-#### *Summary of the document "Analysis of the risk of failure of the Challenger shuttle O-rings" 
+#### *Summary of the document "Analysis of the risk of failure of the Challenger shuttle O-rings"*
 The paper is an attempt at risk modeling based on historical data. It relies on logistic regression to estimate the probability of malfunction as a function of temperature. Although the approach is relevant, several aspects of the analysis could have been improved to provide more reliable results.
 
 ##### Positive points:
