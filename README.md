@@ -13,7 +13,7 @@
 
 - [x] Read Popper’s text and write a short summary in your GitHub repository
 
-#### *Summary of Karl Popper's Conjectures and Refutations*
+#### *1. Summary of Karl Popper's Conjectures and Refutations*
 In Conjectures and Refutations, Karl Popper explores the difference between science and pseudo-science. He argues that the key feature of a scientific theory is its falsifiability, the ability to be tested and potentially proven wrong by evidence. While pseudo-scientific theories (like astrology, Freudian psychology, or Marxism) explain everything and cannot be refuted, true scientific theories make bold predictions that can be tested and, if found false, rejected. Popper emphasizes that genuine scientific progress is made by proposing theories that risk refutation and undergoing rigorous testing. He concludes that falsifiability is the criterion that separates scientific knowledge from non-scientific beliefs.
 
 - [ ] Criticize every figure of Jean-Marc’s slides by:
@@ -39,7 +39,7 @@ The paper is an attempt at risk modeling based on historical data. It relies on 
 
 * **Uncertainty not taken into account:** The uncertainty of the estimates from the logistic regression is not sufficiently highlighted in the conclusion. The model shows a large uncertainty about the influence of temperature, but this uncertainty is not taken into account when assessing the launch risk. This gives a false impression of confidence in the results.
 
-#### *Notebook (Improved version) : [exo5(improved version)](https://app-learninglab.inria.fr/moocrr/jupyter/user/9f6bea3395b39c150a1a33598f831331/notebooks/work/module2/exo5/exo5(Improved%20version).ipynb)*
+#### *2. Notebook (Improved version) : [exo5(improved version)](https://app-learninglab.inria.fr/moocrr/jupyter/user/9f6bea3395b39c150a1a33598f831331/notebooks/work/module2/exo5/exo5(Improved%20version).ipynb)*
   
  # Homework 4th Week : 17/10/2024
 - [ ] Continue the hands-on, improve the experiment design and the analysis
