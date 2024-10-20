@@ -20,8 +20,28 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
  * i. Applying the checklist for good graphics;
  * ii. Proposing a better representation (hand-drawing is fine) that passes the checklist.
 - [ ] Report this work for at least 3 figures on you github/gitlab project.
-- [ ] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
+- [x] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
 
+#### *Explanatory text: Analysis of the Challenger O-ring failure analysis document*
+The paper is an attempt at risk modeling based on historical data. It relies on logistic regression to estimate the probability of malfunction as a function of temperature. Although the approach is relevant, several aspects of the analysis could have been improved to provide more reliable results.
+
+##### Positive points:
+* **Methodological approach:** The use of logistic regression to model the probability of O-ring failure is appropriate, as this model allows to estimate a probability for a binary event (failure or not).
+
+* **Pedagogical explanation:** The document includes clear explanations on the method used, in particular on logistic regression and its results. This makes the analysis understandable for readers with a background in statistics.
+
+* **Data visualization:** The inclusion of graphs to illustrate the relationship between temperature and failure frequency allows to have a first visual idea of ​​the trend.
+
+##### Points to improve:
+* **Lack of data for extreme temperatures:** The analysis includes higher temperatures (above 50°F), but there is no data for temperatures as low as the launch day (31°F). Attempting to draw conclusions in an area where no data is available leads to an underestimation of the true risk.
+
+* **Exclusion of flights without failures:** Flights where no malfunctions were recorded are excluded from the analysis, which distorts the results. Indeed, these flights provide important information on the conditions under which the seals operate correctly. Their inclusion would have allowed for a more complete analysis.
+
+* **Uncertainty not taken into account:** The uncertainty of the estimates from the logistic regression is not sufficiently highlighted in the conclusion. The model shows a large uncertainty about the influence of temperature, but this uncertainty is not taken into account when assessing the launch risk. This gives a false impression of confidence in the results.
+
+
+
+  
  # Homework 4th Week : 17/10/2024
 - [ ] Continue the hands-on, improve the experiment design and the analysis
 
