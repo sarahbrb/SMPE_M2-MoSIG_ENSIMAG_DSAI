@@ -39,8 +39,7 @@ The paper is an attempt at risk modeling based on historical data. It relies on 
 
 * **Uncertainty not taken into account:** The uncertainty of the estimates from the logistic regression is not sufficiently highlighted in the conclusion. The model shows a large uncertainty about the influence of temperature, but this uncertainty is not taken into account when assessing the launch risk. This gives a false impression of confidence in the results.
 
-
-
+#### *Notebook (Improved version) : [exo5(improved version)](https://app-learninglab.inria.fr/moocrr/jupyter/user/9f6bea3395b39c150a1a33598f831331/notebooks/work/module2/exo5/exo5(Improved%20version).ipynb)*
   
  # Homework 4th Week : 17/10/2024
 - [ ] Continue the hands-on, improve the experiment design and the analysis
