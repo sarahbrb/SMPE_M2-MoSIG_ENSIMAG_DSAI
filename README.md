@@ -13,7 +13,7 @@
 
 - [x] Read Popper’s text and write a short summary in your GitHub repository
 
-#### *1. Summary of Karl Popper's Conjectures and Refutations*
+#### *Summary of Karl Popper's Conjectures and Refutations*
 In Conjectures and Refutations, Karl Popper explores the difference between science and pseudo-science. He argues that the key feature of a scientific theory is its falsifiability, the ability to be tested and potentially proven wrong by evidence. While pseudo-scientific theories (like astrology, Freudian psychology, or Marxism) explain everything and cannot be refuted, true scientific theories make bold predictions that can be tested and, if found false, rejected. Popper emphasizes that genuine scientific progress is made by proposing theories that risk refutation and undergoing rigorous testing. He concludes that falsifiability is the criterion that separates scientific knowledge from non-scientific beliefs.
 
 - [ ] Criticize every figure of Jean-Marc’s slides by:
@@ -22,7 +22,7 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
 - [ ] Report this work for at least 3 figures on you github/gitlab project.
 - [x] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
 
-#### *Summary of the document "Analysis of the risk of failure of the Challenger shuttle O-rings"*
+#### *1. Summary of the document "Analysis of the risk of failure of the Challenger shuttle O-rings"*
 The paper is an attempt at risk modeling based on historical data. It relies on logistic regression to estimate the probability of malfunction as a function of temperature. Although the approach is relevant, several aspects of the analysis could have been improved to provide more reliable results.
 
 ##### Positive points:
