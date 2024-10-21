@@ -54,9 +54,9 @@ The paper is an attempt at risk modeling based on historical data. It relies on 
 * **Trying non-linear transformations:** The relationship between temperature and failure probability may not be linear. A significant drop in temperatures could have an exponential or quadratic effect on the failure probability.
 
 * **Testing other statistical methods:** Logistic regression is a good model for binary probabilities, but other more robust methods might provide more reliable results, especially when the sample is small. We can test alternative methods such as:
-- Ridge regression or Lasso regression : to regularize the coefficients.
-- Mixed effects model : to account for variations between different flights.
-- Bayesian analysis : to incorporate more explicit uncertainty into the model.
+    i. Ridge regression or Lasso regression : to regularize the coefficients.
+   ii. Mixed effects model : to account for variations between different flights.
+  iii. Bayesian analysis : to incorporate more explicit uncertainty into the model.
 
   
 #### *2. Notebook (Improved version) : [exo5(improved version)](https://app-learninglab.inria.fr/moocrr/jupyter/user/9f6bea3395b39c150a1a33598f831331/notebooks/work/module2/exo5/exo5(Improved%20version).ipynb)*
