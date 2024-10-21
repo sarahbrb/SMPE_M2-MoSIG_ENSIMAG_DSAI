@@ -44,9 +44,9 @@ The paper is an attempt at risk modeling based on historical data. It relies on 
 
 * **Include other explanatory variables:** The current model only includes temperature as an explanatory variable. However, other factors may influence the probability of O-ring failure, such as:
 
-             - Pressure: Although the pressure is relatively constant in the sample (around 200 psi), it might be useful to include it to test its effect.
-             - Seal age: Older seals might be more likely to fail.
-             - Other environmental factors: Such as humidity or storage time before use.
+    i. Pressure: Although the pressure is relatively constant in the sample (around 200 psi), it might be useful to include it to test its effect.
+   ii. Seal age: Older seals might be more likely to fail.
+  iii. Other environmental factors: Such as humidity or storage time before use.
 
 * **Trying non-linear transformations:** The relationship between temperature and failure probability may not be linear. A significant drop in temperatures could have an exponential or quadratic effect on the failure probability.
 
