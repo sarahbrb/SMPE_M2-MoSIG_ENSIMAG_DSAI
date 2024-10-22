@@ -19,6 +19,20 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
 - [ ] Criticize every figure of Jean-Marc’s slides by:
  * i. Applying the checklist for good graphics;
  * ii. Proposing a better representation (hand-drawing is fine) that passes the checklist.
+
+Karl Popper, Thomas Kuhn, Imre Lakatos, and Claude Bernard Figures:
+| Critique           | Proposed Improvement           |
+| -------------      | -------------                  |
+| Alice              | 25                             |
+| Bob                | 30                             |
+| Charlie            | 22                             |
+
+Legibility: The text (names and dates) is clear, but the font size for the titles under the images could be increased for better readability.
+Relevance: The figures effectively show the philosophers and their famous works. However, the Wikipedia and electronic version links could be more useful if they were organized in a more consistent and visually appealing way (e.g., icons instead of plain text).
+Visual hierarchy: The structure is somewhat unbalanced. The philosopher's name is central, but the left and right content could be better aligned.
+Consistency: The layout of the philosopher’s photo next to the book image is consistent across the slides, which is good. However, the style could be refined to look cleaner (e.g., equal-sized photos).
+
+
 - [ ] Report this work for at least 3 figures on you github/gitlab project.
 - [x] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
 
