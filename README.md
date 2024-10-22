@@ -23,14 +23,12 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
 Karl Popper, Thomas Kuhn, Imre Lakatos, and Claude Bernard Figures:
 | Critique           | Proposed Improvement           |
 | -------------      | -------------                  |
-| Alice              | 25                             |
-| Bob                | 30                             |
-| Charlie            | 22                             |
+| Legibility: The text is somewhat small and cramped, making it hard to read, especially for smaller elements like technical names.              | Create a clearer, multi-tier timeline separating science, technology, and social impacts.                              |
+| Use of color: The use of different colored areas is useful to show societal impact and technological advances, but the yellow area could be more distinct from other parts.                | Increase the font size for important events, and reduce the density of less critical information.                             |
+| Clarity: The overlapping of the colored regions makes it hard to interpret which elements belong to which category. For example, the boundaries between the "Applications" and "Impact sociétal" categories are not clear.            | Use cleaner color blocks with better contrast to differentiate different aspects (e.g., science, technology) without overlapping, and add legends for clarity.                |
 
-Legibility: The text (names and dates) is clear, but the font size for the titles under the images could be increased for better readability.
-Relevance: The figures effectively show the philosophers and their famous works. However, the Wikipedia and electronic version links could be more useful if they were organized in a more consistent and visually appealing way (e.g., icons instead of plain text).
-Visual hierarchy: The structure is somewhat unbalanced. The philosopher's name is central, but the left and right content could be better aligned.
-Consistency: The layout of the philosopher’s photo next to the book image is consistent across the slides, which is good. However, the style could be refined to look cleaner (e.g., equal-sized photos).
+| Information overload: There is a lot of data crammed into the image, making it overwhelming and less accessible. The differentiation between historical periods is hard to grasp quickly. | Use symbols or icons for key innovations, such as the invention of the Internet or the appearance of PCs, to make it easier to quickly understand. |
+| Visual hierarchy: The title and major events (e.g., the appearance of FORTRAN, Internet, etc.) are not emphasized enough compared to less significant events. | |
 
 
 - [ ] Report this work for at least 3 figures on you github/gitlab project.
