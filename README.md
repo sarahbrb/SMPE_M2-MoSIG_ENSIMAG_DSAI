@@ -20,7 +20,7 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
  * i. Applying the checklist for good graphics;
  * ii. Proposing a better representation (hand-drawing is fine) that passes the checklist.
 
-"Une brève histoire de l'informatique" Figure:
+#### *1. "Une brève histoire de l'informatique" Figure:*
 | Critics            | Proposed Improvements           |
 | -------------      | -------------                  |
 | The text is somewhat small and cramped, making it hard to read, especially for smaller elements like technical names.       | Create a clearer, multi-tier timeline separating science, technology, and social impacts.                              |
@@ -28,6 +28,15 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
 | The overlapping of the colored regions makes it hard to interpret which elements belong to which category. For example, the boundaries between the "Applications" and "Impact sociétal" categories are not clear.            | Use cleaner color blocks with better contrast to differentiate different aspects (e.g., science, technology) without overlapping, and add legends for clarity.                |
 | There is a lot of data crammed into the image, making it overwhelming and less accessible. The differentiation between historical periods is hard to grasp quickly. | Use symbols or icons for key innovations, such as the invention of the Internet or the appearance of PCs, to make it easier to quickly understand. |
 |The title and major events (e.g., the appearance of FORTRAN, Internet, etc.) are not emphasized enough compared to less significant events.| |
+
+#### *2. "Karl Popper, Thomas Kuhn, Imre Lakatos and Claude Bernard" Figures:*
+| Critics            | Proposed Improvements           |
+| -------------      | -------------                  |
+|The text (names and dates) is clear, but the font size for the titles under the images could be increased for better readability.|Create a layout with larger photos and cleaner fonts.|
+|The figures effectively show the philosophers and their famous works. However, the Wikipedia and electronic version links could be more useful if they were organized in a more consistent and visually appealing way (e.g., icons instead of plain text).|Use icons for "Wikipedia" and "Electronic version" instead of plain text to create a more intuitive and polished appearance.|
+|The structure is somewhat unbalanced. The philosopher's name is central, but the left and right content could be better aligned.|Align the photos and the text more evenly, and maintain consistent padding between elements.|
+|The layout of the philosopher’s photo next to the book image is consistent across the slides, which is good. However, the style could be refined to look cleaner (e.g., equal-sized photos).||
+
 
 
 - [ ] Report this work for at least 3 figures on you github/gitlab project.
