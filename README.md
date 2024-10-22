@@ -20,14 +20,14 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
  * i. Applying the checklist for good graphics;
  * ii. Proposing a better representation (hand-drawing is fine) that passes the checklist.
 
-Karl Popper, Thomas Kuhn, Imre Lakatos, and Claude Bernard Figures:
-| Critique           | Proposed Improvement           |
+"Une brève histoire de l'informatique" Figure:
+| Critics            | Proposed Improvements           |
 | -------------      | -------------                  |
-| Legibility: The text is somewhat small and cramped, making it hard to read, especially for smaller elements like technical names.              | Create a clearer, multi-tier timeline separating science, technology, and social impacts.                              |
-| Use of color: The use of different colored areas is useful to show societal impact and technological advances, but the yellow area could be more distinct from other parts.                | Increase the font size for important events, and reduce the density of less critical information.                             |
-| Clarity: The overlapping of the colored regions makes it hard to interpret which elements belong to which category. For example, the boundaries between the "Applications" and "Impact sociétal" categories are not clear.            | Use cleaner color blocks with better contrast to differentiate different aspects (e.g., science, technology) without overlapping, and add legends for clarity.                |
-| Information overload: There is a lot of data crammed into the image, making it overwhelming and less accessible. The differentiation between historical periods is hard to grasp quickly. | Use symbols or icons for key innovations, such as the invention of the Internet or the appearance of PCs, to make it easier to quickly understand. |
-| Visual hierarchy: The title and major events (e.g., the appearance of FORTRAN, Internet, etc.) are not emphasized enough compared to less significant events. | |
+| The text is somewhat small and cramped, making it hard to read, especially for smaller elements like technical names.       | Create a clearer, multi-tier timeline separating science, technology, and social impacts.                              |
+| The use of different colored areas is useful to show societal impact and technological advances, but the yellow area could be more distinct from other parts.                | Increase the font size for important events, and reduce the density of less critical information.                             |
+| The overlapping of the colored regions makes it hard to interpret which elements belong to which category. For example, the boundaries between the "Applications" and "Impact sociétal" categories are not clear.            | Use cleaner color blocks with better contrast to differentiate different aspects (e.g., science, technology) without overlapping, and add legends for clarity.                |
+| There is a lot of data crammed into the image, making it overwhelming and less accessible. The differentiation between historical periods is hard to grasp quickly. | Use symbols or icons for key innovations, such as the invention of the Internet or the appearance of PCs, to make it easier to quickly understand. |
+|The title and major events (e.g., the appearance of FORTRAN, Internet, etc.) are not emphasized enough compared to less significant events.| |
 
 
 - [ ] Report this work for at least 3 figures on you github/gitlab project.
