@@ -35,8 +35,9 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
 |The text (names and dates) is clear, but the font size for the titles under the images could be increased for better readability.|Create a layout with larger photos and cleaner fonts.|
 |The figures effectively show the philosophers and their famous works. However, the Wikipedia and electronic version links could be more useful if they were organized in a more consistent and visually appealing way (e.g., icons instead of plain text).|Use icons for "Wikipedia" and "Electronic version" instead of plain text to create a more intuitive and polished appearance.|
 |The structure is somewhat unbalanced. The philosopher's name is central, but the left and right content could be better aligned.|Align the photos and the text more evenly, and maintain consistent padding between elements.|
-|The layout of the philosopher’s photo next to the book image is consistent across the slides, which is good. However, the style could be refined to look cleaner (e.g., equal-sized photos).||
+|The layout of the philosopher’s photo next to the book image is consistent across the slides, which is good. However, the style could be refined to look cleaner (e.g., equal-sized photos).|
 
+#### *2. "Classification of Sciences by Auguste Comte" Figure:*
 
 
 - [ ] Report this work for at least 3 figures on you github/gitlab project.
