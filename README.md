@@ -26,7 +26,6 @@ Karl Popper, Thomas Kuhn, Imre Lakatos, and Claude Bernard Figures:
 | Legibility: The text is somewhat small and cramped, making it hard to read, especially for smaller elements like technical names.              | Create a clearer, multi-tier timeline separating science, technology, and social impacts.                              |
 | Use of color: The use of different colored areas is useful to show societal impact and technological advances, but the yellow area could be more distinct from other parts.                | Increase the font size for important events, and reduce the density of less critical information.                             |
 | Clarity: The overlapping of the colored regions makes it hard to interpret which elements belong to which category. For example, the boundaries between the "Applications" and "Impact sociétal" categories are not clear.            | Use cleaner color blocks with better contrast to differentiate different aspects (e.g., science, technology) without overlapping, and add legends for clarity.                |
-
 | Information overload: There is a lot of data crammed into the image, making it overwhelming and less accessible. The differentiation between historical periods is hard to grasp quickly. | Use symbols or icons for key innovations, such as the invention of the Internet or the appearance of PCs, to make it easier to quickly understand. |
 | Visual hierarchy: The title and major events (e.g., the appearance of FORTRAN, Internet, etc.) are not emphasized enough compared to less significant events. | |
 
