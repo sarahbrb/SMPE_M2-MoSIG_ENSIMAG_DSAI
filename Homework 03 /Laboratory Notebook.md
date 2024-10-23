@@ -22,7 +22,7 @@ I used the implementation of a [pointing experiment from Ergonomics Web at Corne
 I ran the experiment from the above Webpage with 1, 2 and 4 widths and with 16, 32 and 64 distances, with 6 trials for each combination. (Same as Teacher).
 
 #### *Data collected*
-The Webpage returned the following results:
+The Webpage returned the following [results](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%2003%20/data%20/Fitts'%20Law%20Experiment%20(Results).pdf):
 
 * I performed 26 pointing errors
 * A Fitts modeling in the form of MT = 511.627 + 144.326log(A/W + 1) with R² = 0.478
