@@ -1,3 +1,5 @@
+### *Criticizing some figures from Jean-Marc's slides [1](https://github.com/alegrand/SMPE/blob/master/sessions/2022_10_Grenoble/02_Intro-Visu.pdf), [2](https://github.com/alegrand/SMPE/blob/master/sessions/2022_10_Grenoble/02_Intro-Visu.pdf)*
+
 #### *1. "Une brève histoire de l'informatique" Figure:*
 | Critics            | Proposed Improvements           |
 | -------------      | -------------                  |
