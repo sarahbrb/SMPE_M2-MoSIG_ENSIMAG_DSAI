@@ -55,7 +55,7 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
 | The years and country names along the axes are hard to read due to the 3D perspective, and the tilted axis labels make it worse. | Use vertical or horizontal bars with a clear, large font for the axis labels and consider spacing the years for better readability. |
 | While the color key on the side is helpful, it still leads to a visually overwhelming graph. Too many colors and bars clutter the presentation. | Limit the number of countries displayed at once to reduce clutter, or break the data into multiple charts (e.g., showing top 5 countries per year). |
 
-### *5. "Monthly Global Mean Temperature" Figure:*
+#### *5. "Monthly Global Mean Temperature" Figure:*
 | Critics            | Proposed Improvements           |
 | -------------      | -------------                  |
 | This chart uses a heat map approach that effectively shows temperature changes over time. It is visually appealing and provides a clear picture of trends. | Consider larger fonts for the years and months to improve readability. |
@@ -63,7 +63,7 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
 | The years and temperatures on each individual pie chart are hard to read because they are small. This limits the accessibility of the graphic to those with impaired vision. | Perhaps simplifying the number of color gradations could help make the trend more clear without overwhelming the viewer. |
 |  There’s no context or explanation of what is happening with the temperature changes. While the visualization is effective at showing the data, it doesn’t explain what factors contributed to the observed temperature trends. | Adding labels for notable events (e.g., major volcanic eruptions or industrial changes) could provide context to the temperature changes. |
 
-### *6. "XRP/EUR, 15, BitStamp" Figure :*
+#### *6. "XRP/EUR, 15, BitStamp" Figure :*
 | Critics            | Proposed Improvements           |
 | -------------      | -------------                  |
 | The chart lacks clear annotations or insights about the context of price changes. For a financial audience, it's helpful to indicate important market events or time points (e.g., news releases, regulations) that might have caused price drops or spikes. | Mark key price levels, trendlines, and any significant events (e.g., news, regulation, or market sentiment) that correspond to the rapid price movement seen. |
