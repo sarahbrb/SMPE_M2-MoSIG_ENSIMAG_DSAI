@@ -11,7 +11,7 @@
 
 # Homework 2nd Week : 03/10/2024
 
-- [x] Read Popper’s text and write a short summary in your GitHub repository : [Summary of Karl Popper's Conjectures and Refutations](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Summary%20of%20Karl%20Popper's%20Conjectures%20and%20Refutations.md).
+- [x] Read Popper’s text and write a short [summary](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Summary%20of%20Karl%20Popper's%20Conjectures%20and%20Refutations.md) in your GitHub repository.
 - [x] [Criticize](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Image%20critics.md) every figure of Jean-Marc’s slides by:
  * i. Applying the checklist for good graphics;
  * ii. Proposing a better representation (hand-drawing is fine) that passes the checklist.
