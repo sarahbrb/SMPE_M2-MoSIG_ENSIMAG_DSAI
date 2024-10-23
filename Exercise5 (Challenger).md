@@ -41,4 +41,4 @@ The paper is an attempt at risk modeling based on historical data. It relies on 
   
 ### *2. Notebook Updating*
 * *[Initial version](https://app-learninglab.inria.fr/moocrr/jupyter/user/9f6bea3395b39c150a1a33598f831331/notebooks/work/module2/exo5/exo5_fr.ipynb)*
-* The results of some tests to improve the analysis are available here : *[exo5(improved version)](https://app-learninglab.inria.fr/moocrr/jupyter/user/9f6bea3395b39c150a1a33598f831331/notebooks/work/module2/exo5/exo5(Improved%20version).ipynb)*
+* The results of some tests to improve the analysis are available here : *[exo5(improved version)](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/exo5(Improved%20version).ipynb)*
