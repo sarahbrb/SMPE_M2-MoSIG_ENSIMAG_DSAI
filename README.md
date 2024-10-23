@@ -13,7 +13,7 @@
 
 - [x] Read Popper’s text and write a short [summary](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Summary%20of%20Karl%20Popper's%20Conjectures%20and%20Refutations.md) in your GitHub repository.
 - [x] [Criticize](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Image%20critics.md) every figure of Jean-Marc’s slides by:
- * i. Applying the checklist for good graphics;
+ * i. Applying the checklist for good graphics : [Checklist 01](https://github.com/alegrand/SMPE/blob/master/sessions/2021_10_Grenoble/02_Check-list-good-graphics-tableau-en.pdf), [Checklist 02](https://github.com/alegrand/SMPE/blob/master/sessions/2021_10_Grenoble/02_Check-list-good-graphics-en.pdf);
  * ii. Proposing a better representation (hand-drawing is fine) that passes the checklist.
 - [x] Report this work for at least 3 figures on you github/gitlab project.
 - [x] MOOC: Complete [exercise 5 of module 2 (Challenger)](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Exercise5%20(Challenger).md). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
