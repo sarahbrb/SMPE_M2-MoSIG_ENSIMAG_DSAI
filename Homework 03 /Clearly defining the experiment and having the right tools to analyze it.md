@@ -26,8 +26,8 @@ The Webpage returned the following results:
 
 * I performed 26 pointing errors
 * A Fitts modeling in the form of MT = 511.627 + 144.326log(A/W + 1) with R² = 0.478
-* The table of mean MT that I provide in the data folder : 
-* The table of raw pointing data that I provide in data folder : 
+* The table of mean MT that I provide in the [data folder](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/tree/main/Homework%2003%20/data%20).
+* The table of raw pointing data that I provide in [data folder](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/tree/main/Homework%2003%20/data%20). 
 
 
 #### *Data analysis*
