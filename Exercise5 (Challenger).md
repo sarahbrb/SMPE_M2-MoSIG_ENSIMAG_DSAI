@@ -1,4 +1,6 @@
-### *1. Summary of the document "[Analysis of the risk of failure of the Challenger shuttle O-rings](https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-ressources/blob/master/module2/exo5/challenger_fr.pdf)"*
+### *1. [Exercise 05](https://lms.fun-mooc.fr/courses/course-v1:inria+41016+self-paced/courseware/66bc811404b8481da5f794de54681c5e/8b8b358fa16b47b2ab2b156ebdd1dc05/) completed on the MOOC* ✅
+
+### *2. Summary of the document "[Analysis of the risk of failure of the Challenger shuttle O-rings](https://gitlab.inria.fr/learninglab/mooc-rr/mooc-rr-ressources/blob/master/module2/exo5/challenger_fr.pdf)"*
 The paper is an attempt at risk modeling based on historical data. It relies on logistic regression to estimate the probability of malfunction as a function of temperature. Although the approach is relevant, several aspects of the analysis could have been improved to provide more reliable results.
 
 ##### Positive points:
@@ -39,6 +41,6 @@ The paper is an attempt at risk modeling based on historical data. It relies on 
   
 
   
-### *2. Notebook Updating*
+### *3. Notebook Update*
 * *[Initial version](https://app-learninglab.inria.fr/moocrr/jupyter/user/9f6bea3395b39c150a1a33598f831331/notebooks/work/module2/exo5/exo5_fr.ipynb)*
 * The results of some tests to improve the analysis are available here : *[exo5(improved version)](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/exo5(Improved%20version).ipynb)*
