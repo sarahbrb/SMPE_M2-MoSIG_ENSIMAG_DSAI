@@ -38,7 +38,14 @@ In Conjectures and Refutations, Karl Popper explores the difference between scie
 |The layout of the philosopher’s photo next to the book image is consistent across the slides, which is good. However, the style could be refined to look cleaner (e.g., equal-sized photos).|
 
 #### *2. "Classification of Sciences by Auguste Comte" Figure:*
-
+| Critics            | Proposed Improvements           |
+| -------------      | -------------                  |
+|  The pyramid structure attempts to represent hierarchical relationships, which is appropriate. | Use a flowchart or layered approach to better indicate the relationships between sciences. |
+|The text is readable, but the inverted pyramids can be confusing without clear explanations. The choice of font could be improved for clarity. | Each layer should be labeled with a clear explanation about complexity vs. instrument generality. The inverted pyramids make the relationship ambiguous. Color-coding could be used to distinguish categories or fields. |
+| It uses monochrome elements, which avoid excessive similarity in color but could benefit from differentiation. ||
+| The figures are labeled, but the relationship between the two inverted pyramids could be more explicit. ||
+| The title "Classification of Sciences" is present but lacks detail about what the pyramids represent. ||
+| It lacks references in the text or additional clarification on the complexity and generality of sciences. ||
 
 - [ ] Report this work for at least 3 figures on you github/gitlab project.
 - [x] MOOC: Complete exercise 5 of module 2 (Challenger). Write a short text explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
