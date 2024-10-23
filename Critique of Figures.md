@@ -2,7 +2,7 @@
 
 #### *1. "Une brève histoire de l'informatique" Figure:*
 | Critics            | Proposed Improvements           |
-| -------------      | -------------                  |
+| -------------      | --------------                  |
 | The text is somewhat small and cramped, making it hard to read, especially for smaller elements like technical names.       | Create a clearer, multi-tier timeline separating science, technology, and social impacts.                              |
 | The use of different colored areas is useful to show societal impact and technological advances, but the yellow area could be more distinct from other parts.                | Increase the font size for important events, and reduce the density of less critical information.                             |
 | The overlapping of the colored regions makes it hard to interpret which elements belong to which category. For example, the boundaries between the "Applications" and "Impact sociétal" categories are not clear.            | Use cleaner color blocks with better contrast to differentiate different aspects (e.g., science, technology) without overlapping, and add legends for clarity.                |
