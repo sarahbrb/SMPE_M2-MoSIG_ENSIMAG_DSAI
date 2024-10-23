@@ -12,7 +12,7 @@
 # Homework 2nd Week : 03/10/2024
 
 - [x] Read Popper’s text and write a short [summary](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Summary%20of%20Karl%20Popper's%20Conjectures%20and%20Refutations.md) in your GitHub repository.
-- [x] [Criticize](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Image%20critics.md) every figure of Jean-Marc’s slides by:
+- [x] [Criticize]([https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Image%20critics.md](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Critique%20of%20Figures.md)) every figure of Jean-Marc’s slides by:
  * i. Applying the checklist for good graphics : [Checklist 01](https://github.com/alegrand/SMPE/blob/master/sessions/2021_10_Grenoble/02_Check-list-good-graphics-tableau-en.pdf), [Checklist 02](https://github.com/alegrand/SMPE/blob/master/sessions/2021_10_Grenoble/02_Check-list-good-graphics-en.pdf);
  * ii. Proposing a better representation (hand-drawing is fine) that passes the checklist.
 - [x] Report this work for at least 3 figures on you github/gitlab project.
