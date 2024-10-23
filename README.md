@@ -20,7 +20,7 @@
 
 
  # Homework 4th Week : 17/10/2024
-- [ ] Continue the hands-on, improve the experiment design and the analysis
+- [ ] Continue the hands-on, improve the experiment design and the analysis 
 
 
 
