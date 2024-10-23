@@ -6,7 +6,7 @@
 
 #### *data/*
 This folder contains both raw and processed experimental data that is returned from the experimental software.
-Each file name is named after the following format: "*3rd session SMPE Project - <data>*" where <data> is either:
+Each file name is named after the following format: "*3rd session SMPE Project - data*" where 'data' is either:
 - Raw Data : the raw data  as returned from the experimental software.
 - Table of Mean MT : the processed mean movement times as returned from the experimental software.
 
