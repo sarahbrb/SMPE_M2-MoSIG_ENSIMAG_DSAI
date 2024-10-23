@@ -16,7 +16,7 @@
  * i. Applying the checklist for good graphics : [Checklist 01](https://github.com/alegrand/SMPE/blob/master/sessions/2021_10_Grenoble/02_Check-list-good-graphics-tableau-en.pdf), [Checklist 02](https://github.com/alegrand/SMPE/blob/master/sessions/2021_10_Grenoble/02_Check-list-good-graphics-en.pdf);
  * ii. Proposing a better representation (hand-drawing is fine) that passes the checklist.
 - [x] Report this work for at least 3 figures on you github/gitlab project.
-- [x] MOOC: Complete [exercise 5 of module 2 (Challenger)](https://lms.fun-mooc.fr/courses/course-v1:inria+41016+self-paced/courseware/66bc811404b8481da5f794de54681c5e/8b8b358fa16b47b2ab2b156ebdd1dc05/). Write a [short text](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Exercise5%20(Challenger).md) explaining what is good and wrong about this document (you may want to provide an updated version of the notebook) and upload on your github/gitlab space.
+- [x] MOOC: Complete [exercise 5 of module 2 (Challenger)](https://lms.fun-mooc.fr/courses/course-v1:inria+41016+self-paced/courseware/66bc811404b8481da5f794de54681c5e/8b8b358fa16b47b2ab2b156ebdd1dc05/). Write a [short text](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Exercise5%20(Challenger).md) explaining what is good and wrong about this document (you may want to provide an [updated version of the notebook]()) and upload on your github/gitlab space.
 
 
  # Homework 4th Week : 17/10/2024
