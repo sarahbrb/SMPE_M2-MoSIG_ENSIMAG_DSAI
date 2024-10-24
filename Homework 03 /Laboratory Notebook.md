@@ -19,7 +19,7 @@ This folder contains my R markdown script used to analyze the data collected fro
 I used the implementation of a [pointing experiment from Ergonomics Web at Cornell University](https://ergo.human.cornell.edu/FittsLaw/FittsLaw.html). On this Webpage, one can gather data for controlled 1D user pointing experiments.
 
 #### *Experimental variables* 
-I ran the experiment from the above Webpage with 1, 2 and 4 widths and with 16, 32 and 64 distances, with 6 trials for each combination. (Same as Teacher).
+I ran the experiment from the above Webpage with 1, 2 and 4 widths and with 16, 32 and 64 distances, with 6 trials for each combination (Same as Teacher).
 
 #### *Data collected*
 The Webpage returned the following [results](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%2003%20/data%20/Fitts'%20Law%20Experiment%20(Results).pdf):
