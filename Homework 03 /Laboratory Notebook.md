@@ -6,12 +6,12 @@
 
 #### *data/*
 This folder contains both raw and processed experimental data that is returned from the experimental software.
-Each file name is named after the following format: "*3rd session SMPE Project - data*" where 'data' is either:
-- Raw Data : the raw data  as returned from the experimental software.
-- Table of Mean MT : the processed mean movement times as returned from the experimental software.
+Each file name is named after the following format: "*DD-MM-YYYY_xxx*" where 'xxx' is either:
+- Raw_Data : the raw data  as returned from the experimental software.
+- MeanMT_Data : the processed mean movement times as returned from the experimental software.
 
 #### *analysis/*
-This folder contains my R markdown script used to analyze the data collected from the experiment.
+This folder contains my python markdown script used to analyze the data collected from the experiment.
 
 ## Experimental Reports
 
