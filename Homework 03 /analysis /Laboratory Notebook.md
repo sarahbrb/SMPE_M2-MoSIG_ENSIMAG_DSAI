@@ -16,8 +16,6 @@ This folder contains my python markdown script used to analyze the data collecte
 ## Experimental Reports
 
 
-### 1. 1st attempt 
-
 #### *Experimental task*
 I used the implementation of a [pointing experiment from Ergonomics Web at Cornell University](https://ergo.human.cornell.edu/FittsLaw/FittsLaw.html). On this Webpage, one can gather data for controlled 1D user pointing experiments.
 
@@ -33,7 +31,6 @@ The Webpage returned the following [results](https://github.com/sarahbrb/SMPE_M2
 * The table of raw pointing data that I provide in [data folder](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/tree/main/Homework%2003%20/data%20). 
 
 
-### 2. 2nd attempt 
 
 #### *Data analysis*
 My data analysis is performed and commented in the [xxx]() file  (I couldn't access jupyter Lab to download the notebook, I will add it later).
