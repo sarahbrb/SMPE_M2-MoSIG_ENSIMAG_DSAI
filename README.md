@@ -1,4 +1,4 @@
-# Homework Lecture 01 : 26/09/2024
+# Homework Lecture 01 (1st week) : 26/09/2024
 
 - [x] Indicate your name on the [PAD](https://codimd.math.cnrs.fr/s/GYhTSQxFu#Welcome-to-the-SMPE-2024-2025-pad).
 - [x] Register on the Mattermost : @sarahbrb
@@ -9,7 +9,7 @@
 - [x] Report the URL of your git project, your mattermost ID on the [PAD](https://codimd.math.cnrs.fr/s/GYhTSQxFu#Welcome-to-the-SMPE-2024-2025-pad).
 - [x] Start learning R by reading my short R crash course for computer scientists.
 
-# Homework Lecture 02 : 03/10/2024
+# Homework Lecture 02 (2nd week) : 03/10/2024
 
 - [x] Read Popper’s text and write a short [summary](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%2002%20/Summary%20of%20Karl%20Popper's%20Conjectures%20and%20Refutations.md) in your GitHub repository.
 - [x] [Criticize](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%2002%20/Critique%20of%20Figures.md) every figure of Jean-Marc’s slides by:
@@ -19,7 +19,7 @@
 - [x] MOOC: Complete [exercise 5 of module 2 (Challenger)](https://lms.fun-mooc.fr/courses/course-v1:inria+41016+self-paced/courseware/66bc811404b8481da5f794de54681c5e/8b8b358fa16b47b2ab2b156ebdd1dc05/). Write a [short text](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%2002%20/Exercise5%20(Challenger).md) explaining what is good and wrong about this document (you may want to provide an [updated version of the notebook](https://app-learninglab.inria.fr/moocrr/jupyter/user/9f6bea3395b39c150a1a33598f831331/notebooks/work/module2/exo5/exo5(Improved%20version).ipynb#)) and upload on your github/gitlab space.
 
 
- # Homework Lecture 03 : 17/10/2024
+ # Homework Lecture 03 (4th week) : 17/10/2024
 - [x] Continue the hands-on, [improve the experiment design and the analysis](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%2003%20/Laboratory%20Notebook.md).
 
 
