@@ -20,7 +20,7 @@
 
 
  # Homework 4th Week : 17/10/2024
-- [ ] Continue the hands-on, [improve the experiment design and the analysis](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%2003%20/Laboratory%20Notebook.md).
+- [x] Continue the hands-on, [improve the experiment design and the analysis](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%2003%20/Laboratory%20Notebook.md).
 
 
 
