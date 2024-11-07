@@ -33,4 +33,4 @@ The Webpage returned the following [results](https://github.com/sarahbrb/SMPE_M2
 
 
 #### *Data analysis*
-My data analysis performed and commented is available here : [user pointing experiment analysis](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/user_pointing_experiment_analysis.ipynb).
+My data analysis performed and commented is available here : [user pointing experiment analysis](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/user_pointing_experiment.ipynb).
