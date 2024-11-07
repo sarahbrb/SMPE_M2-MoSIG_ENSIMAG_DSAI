@@ -1,4 +1,4 @@
-# Laboratory Notebook for a user pointing experiment
+# Laboratory Notebook "user pointing experiment"
 
 ###### *Empirical evaluation of [Fitts’s law](https://en.wikipedia.org/wiki/Fitts%27s_law): Fork this small [project](https://gricad-gitlab.univ-grenoble-alpes.fr/coutrixc/m2r_pointingxp)*
 
