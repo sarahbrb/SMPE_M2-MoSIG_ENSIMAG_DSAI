@@ -23,5 +23,5 @@
 - [x] Continue the hands-on, [improve the experiment design and the analysis](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%2003%20/Laboratory_Notebook.md).
 
 # Homework Lecture 05 (7th week) : 07/11/2024
-- [] Compute confidence intervals for the data of [Parallel Quicksort](https://github.com/alegrand/M2R-ParallelQuicksort)
+- [ ] Compute confidence intervals for the data of [Parallel Quicksort](https://github.com/alegrand/M2R-ParallelQuicksort)
  
