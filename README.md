@@ -23,7 +23,7 @@
 - [x] Continue the hands-on, [improve the experiment design and the analysis](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%2003%20/Laboratory_Notebook.md).
 
 # Homework Lecture 05 (7th week) : 07/11/2024
-- [ ] [Compute confidence intervals](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%205%20&%206%20/confidence_intervals.ipynb) for the data of [Parallel Quicksort](https://github.com/alegrand/M2R-ParallelQuicksort)
+- [x] [Compute confidence intervals](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%205%20&%206%20/confidence_intervals.ipynb) for the data of [Parallel Quicksort](https://github.com/alegrand/M2R-ParallelQuicksort)
 
 # Homework Lecture 06 (8th week) : 14/11/2024
-- [ ] [Fit a linear model](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%205%20&%206%20/confidence_intervals.ipynb) for the data in [Parallel Quicksort](https://github.com/alegrand/M2R-ParallelQuicksort)
+- [x] [Fit a linear model](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%205%20&%206%20/confidence_intervals.ipynb) for the data in [Parallel Quicksort](https://github.com/alegrand/M2R-ParallelQuicksort)
