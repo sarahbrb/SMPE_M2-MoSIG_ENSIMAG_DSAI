@@ -27,3 +27,9 @@
 
 # Homework Lecture 06 (8th week) : 14/11/2024
 - [x] [Fit a linear model](https://github.com/sarahbrb/SMPE_M2-MoSIG_ENSIMAG_DSAI/blob/main/Homework%205%20&%206%20/confidence_intervals.ipynb) for the data in [Parallel Quicksort](https://github.com/alegrand/M2R-ParallelQuicksort)
+- [ ] (For the 28th of November) Read the articles provided [here](https://cloud.univ-grenoble-alpes.fr/s/3Ro6LpMbP6fckFH) (about 5 min for each paper) and (1) explain how and why citations are used and (2) qualify the journal in a few words.
+
+# Homework Lecture 07 (9th week) : 21/11/2024
+- [ ] Keep building intuition on linear model
+- [ ] Try to complete the peer-evaluation of the MOOC
+
